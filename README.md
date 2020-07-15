@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hi there!
+
+I'm Wallace Ramon a Information Systems student at the University of São Paulo and passionate about development. I'm currently working on my personal projects here in GitHub and also looking to collaborate on open-source projects. About development, I work more on back-end with languages such as Javascript(Node.js), Java and Python, but I also have experience in front-end in technologies like Javascript(ReactJS).
+
+## You can reach me on LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/wallace-ramon-nog-soares/
 
 <!--
 **rheimon1/rheimon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
