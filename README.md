@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Wallace Ramon a Information Systems student at the University of São Paulo and passionate about development. I'm currently working as a Software Developer Fullstack Junior and also looking to collaborate on open-source projects. 
+I'm Wallace Ramon a Information Systems student at the University of São Paulo and passionate about development. I'm currently working as a Software Engineer and also looking to collaborate on open-source projects. 
 
 ### Skills
 
